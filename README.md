@@ -1,7 +1,7 @@
 # Deliverable Three: Election Analysis Challenge 
 
 ## Overview of Election Audit
-The goal of the analysis of the election audit was to analyze the results of the 2019 election.  We were looking to breakdown the ballots by both the county they were cast in, as well as by who they were cast for.  In order to do this, we created a script in python that was able to calculate the total amount of votes, where they were cast, and who they were cast for.  That analysis made us able to determine how mnay votes each candidate received, and from which county those votes came from.
+The goal of the election audit was to analyze the results of the 2019 election that took place across Denver, Jefferson and Arapahoe counties between the candidates Diana DeGette, Raymon Anthony Doane, and Charles Casper Stockham.  We broke down the ballots by both the county they were cast in, as well as by who they were cast for.  In order to do this, we created a script in python that was able to extract the raw input from a CSV file, calculate the total amount of votes, where they were cast, and who they were cast for. Finally, those results were then printed to an easily readable text file. The analysis revealed to us how many votes each candidate received, and from which county those votes came from.
 
 ## Election-Audit Results
 
@@ -13,7 +13,7 @@ The goal of the analysis of the election audit was to analyze the results of the
 
 - Denver county, with 306,055 votes, had by far the largest voting bloc of the three counties, making up 82.8% percent of the total amount of votes.
 
-- Diana DeGette received the most votes with 272,892 (73.8% of the total), Charles Casper Stockham received the second most with 85,213 votes (23% of the total), and lastly, Raymon -Anthony Doane received 11,606 votes (3.1% of the total votes cast).
+- Diana DeGette received the most votes with 272,892 (73.8% of the total), Charles Casper Stockham received the second most with 85,213 votes (23% of the total), and lastly, Raymon Anthony Doane received 11,606 votes (3.1% of the total votes cast).
 
 ![Alt_Text](https://github.com/Nickguild1993/Election_Analysis/blob/master/Total%20vote%20pie%20chart.png)
 
